@@ -7,7 +7,8 @@ Documentation
 =============================
 
 #. `HTML <https://2spmohanty.github.io/projectpdf/>`_
-#. `PDF <>`_
+#. `PDF <https://github.com/2spmohanty/pdfcrawl/blob/main/pdfcrawl_guide.pdf>`_
+
 
 Getting Started
 ----------------------------
