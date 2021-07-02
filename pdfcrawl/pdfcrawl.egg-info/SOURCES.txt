@@ -1,0 +1,11 @@
+README.rst
+setup.cfg
+setup.py
+pdfcrawl/app.py
+pdfcrawl/core.py
+pdfcrawl.egg-info/PKG-INFO
+pdfcrawl.egg-info/SOURCES.txt
+pdfcrawl.egg-info/dependency_links.txt
+pdfcrawl.egg-info/entry_points.txt
+pdfcrawl.egg-info/requires.txt
+pdfcrawl.egg-info/top_level.txt

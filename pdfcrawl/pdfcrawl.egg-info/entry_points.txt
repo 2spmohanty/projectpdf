@@ -1,0 +1,3 @@
+[console_scripts]
+pdfcrawl = pdfcrawl.app:main
+
